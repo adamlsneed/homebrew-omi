@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Omi Dev (fork)</title>
+    <link>https://github.com/adamlsneed/omi</link>
+    <description>Notarized fork builds of the Omi desktop app.</description>
+    <item>
+      <title>Omi desktop (fork) 0.1.10</title>
+      <pubDate>Fri, 04 Sep 2026 18:03:25 +0000</pubDate>
+      <sparkle:version>0.1.10</sparkle:version>
+      <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Fork desktop build 0.1.10 (signed + notarized, bundle com.omi.desktop-dev).
+
+## Changes
+- Fork builds now update themselves: the app follows the fork's own Sparkle feed and installs new releases on quit, instead of waiting for brew upgrade.]]></description>
+      <enclosure url="https://github.com/adamlsneed/omi/releases/download/desktop-fork-v0.1.10/omi-desktop-0.1.10.zip" length="293209461" type="application/octet-stream" sparkle:edSignature="U1TDtQ9nTN8YfeP8wKChPi0lY56UcWxEHGPLpE2TCRfm4SMo+ulaZSlMC8bqBa6LE0tiJLkxGuJchzIHqkaqCg=="/>
+    </item>
+  </channel>
+</rss>
