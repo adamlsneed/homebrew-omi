@@ -5,6 +5,19 @@
     <link>https://github.com/adamlsneed/omi</link>
     <description>Notarized fork builds of the Omi desktop app.</description>
     <item>
+      <title>Omi desktop (fork) 0.1.11</title>
+      <pubDate>Sun, 13 Sep 2026 03:55:25 +0000</pubDate>
+      <sparkle:version>0.1.11</sparkle:version>
+      <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Fork desktop build 0.1.11 (signed + notarized, bundle com.omi.desktop-dev).
+
+## Changes
+- Rewind screen capture no longer replaces the traffic-light buttons of the app you are using with the macOS window-sharing badge
+- Synced upstream BasedHardware desktop changes through v0.12.339 (2026-09-11)]]></description>
+      <enclosure url="https://github.com/adamlsneed/omi/releases/download/desktop-fork-v0.1.11/omi-desktop-0.1.11.zip" length="293985096" type="application/octet-stream" sparkle:edSignature="0nVZxzgUnkOejz8ML5XU84SFHtthHGFE34jeX+FZqpHYzwuQ0BH0BfgeZKBW2CIyAlwDiUHDLr/oGwBtUSOkDg=="/>
+    </item>
+    <item>
       <title>Omi desktop (fork) 0.1.10</title>
       <pubDate>Fri, 04 Sep 2026 18:03:25 +0000</pubDate>
       <sparkle:version>0.1.10</sparkle:version>
