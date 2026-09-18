@@ -5,6 +5,19 @@
     <link>https://github.com/adamlsneed/omi</link>
     <description>Notarized fork builds of the Omi desktop app.</description>
     <item>
+      <title>Omi desktop (fork) 0.1.12</title>
+      <pubDate>Fri, 18 Sep 2026 00:09:14 +0000</pubDate>
+      <sparkle:version>0.1.12</sparkle:version>
+      <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Fork desktop build 0.1.12 (signed + notarized, bundle com.omi.desktop-dev).
+
+## Changes
+- Synced upstream BasedHardware desktop changes through v0.12.360 (2026-09-17)
+- Live notes no longer retry on every sentence when your plan doesn't include AI notes]]></description>
+      <enclosure url="https://github.com/adamlsneed/omi/releases/download/desktop-fork-v0.1.12/omi-desktop-0.1.12.zip" length="294091117" type="application/octet-stream" sparkle:edSignature="kye+9OBw9vr4EXiK169iQrT6OCdXYvr9aG14fntHy6EJm5VdExLAjsaW2UqsTNzXe7VDr99F/8YakW6B1j8YAw=="/>
+    </item>
+    <item>
       <title>Omi desktop (fork) 0.1.11</title>
       <pubDate>Sun, 13 Sep 2026 03:55:25 +0000</pubDate>
       <sparkle:version>0.1.11</sparkle:version>

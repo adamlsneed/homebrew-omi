@@ -1,8 +1,8 @@
 cask "omi" do
-  version "0.1.11"
-  sha256 "5a905457da3508f11d99006fd4cf39ca5ec2b272c0228ce943129262eed20aa6"
+  version "0.1.12"
+  sha256 "d2fe344687b74bcecee8309207962815d628d1d2d6a6c97b8d4ba420a355b5ff"
 
-  url "https://github.com/adamlsneed/omi/releases/download/desktop-fork-v0.1.11/omi-desktop-0.1.11.zip"
+  url "https://github.com/adamlsneed/omi/releases/download/desktop-fork-v0.1.12/omi-desktop-0.1.12.zip"
   name "Omi Dev"
   desc "Adam's Omi desktop fork (notarized)"
   homepage "https://github.com/adamlsneed/omi"
