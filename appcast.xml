@@ -5,6 +5,19 @@
     <link>https://github.com/adamlsneed/omi</link>
     <description>Notarized fork builds of the Omi desktop app.</description>
     <item>
+      <title>Omi desktop (fork) 0.1.17</title>
+      <pubDate>Wed, 07 Oct 2026 20:25:12 +0000</pubDate>
+      <sparkle:version>0.1.17</sparkle:version>
+      <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Fork desktop build 0.1.17 (signed + notarized, bundle com.omi.desktop-dev).
+
+## Changes
+- Chat keeps working when the folder a chat session was started in is deleted; the folder is recreated instead of every answer failing
+- Synced upstream BasedHardware desktop changes through v0.12.450 (2026-10-07)]]></description>
+      <enclosure url="https://github.com/adamlsneed/omi/releases/download/desktop-fork-v0.1.17/omi-desktop-0.1.17.zip" length="294258055" type="application/octet-stream" sparkle:edSignature="YresJIC+vmgRNA/WK99TxsdqdtGSao1IG5lhQIJzdwUAB1pogPew/Wee92Hq4z8+87lV1NvY4VOre8C5Keh8BQ=="/>
+    </item>
+    <item>
       <title>Omi desktop (fork) 0.1.16</title>
       <pubDate>Tue, 06 Oct 2026 22:12:12 +0000</pubDate>
       <sparkle:version>0.1.16</sparkle:version>
