@@ -5,6 +5,18 @@
     <link>https://github.com/adamlsneed/omi</link>
     <description>Notarized fork builds of the Omi desktop app.</description>
     <item>
+      <title>Omi desktop (fork) 0.1.18</title>
+      <pubDate>Thu, 08 Oct 2026 15:33:24 +0000</pubDate>
+      <sparkle:version>0.1.18</sparkle:version>
+      <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Fork desktop build 0.1.18 (signed + notarized, bundle com.omi.desktop-dev).
+
+## Changes
+- Fixed chat failing with a generic error for BYOK users despite validated API keys — the desktop backend now actually reads the keys instead of silently ignoring them.]]></description>
+      <enclosure url="https://github.com/adamlsneed/omi/releases/download/desktop-fork-v0.1.18/omi-desktop-0.1.18.zip" length="294259408" type="application/octet-stream" sparkle:edSignature="A/rWz2w5ERdmk8x17k0gG1lhcgTv/xcQgujTg+E9ncRj0vXi9oyvXFXiernvI7AcEpm6retfsGzQsufxT114Bw=="/>
+    </item>
+    <item>
       <title>Omi desktop (fork) 0.1.17</title>
       <pubDate>Wed, 07 Oct 2026 20:25:12 +0000</pubDate>
       <sparkle:version>0.1.17</sparkle:version>
