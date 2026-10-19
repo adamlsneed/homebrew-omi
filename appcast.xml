@@ -5,6 +5,20 @@
     <link>https://github.com/adamlsneed/omi</link>
     <description>Notarized fork builds of the Omi desktop app.</description>
     <item>
+      <title>Omi desktop (fork) 0.1.20</title>
+      <pubDate>Mon, 19 Oct 2026 01:48:09 +0000</pubDate>
+      <sparkle:version>0.1.20</sparkle:version>
+      <sparkle:shortVersionString>0.1.20</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Fork desktop build 0.1.20 (signed + notarized, bundle com.omi.desktop-dev).
+
+## Changes
+- Added a visible Ideas shortcut in Conversations to open your saved ideas
+- Fixed missing Siri actions in desktop releases
+- Updated desktop fixes through upstream 0.12.501 while retaining Ideas capture and fork integrations]]></description>
+      <enclosure url="https://github.com/adamlsneed/omi/releases/download/desktop-fork-v0.1.20/omi-desktop-0.1.20.zip" length="294824614" type="application/octet-stream" sparkle:edSignature="vaAaNPtsxqaqa9WZwEzlZ1Fg68aXHVrBylkPeVelzunvLmuuBtf1do75st3vvVnZuJMjcL6yngT0nu+L7RnsDw=="/>
+    </item>
+    <item>
       <title>Omi desktop (fork) 0.1.19</title>
       <pubDate>Tue, 13 Oct 2026 04:44:24 +0000</pubDate>
       <sparkle:version>0.1.19</sparkle:version>
