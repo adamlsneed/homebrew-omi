@@ -5,6 +5,18 @@
     <link>https://github.com/adamlsneed/omi</link>
     <description>Notarized fork builds of the Omi desktop app.</description>
     <item>
+      <title>Omi desktop (fork) 0.1.21</title>
+      <pubDate>Mon, 26 Oct 2026 17:33:49 +0000</pubDate>
+      <sparkle:version>0.1.21</sparkle:version>
+      <sparkle:shortVersionString>0.1.21</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Fork desktop build 0.1.21 (signed + notarized, bundle com.omi.desktop-dev).
+
+## Changes
+- Updated desktop features and fixes from upstream through version 0.12.534 while preserving Ideas capture and fork settings]]></description>
+      <enclosure url="https://github.com/adamlsneed/omi/releases/download/desktop-fork-v0.1.21/omi-desktop-0.1.21.zip" length="288661720" type="application/octet-stream" sparkle:edSignature="hjO8iWZFZyKkeolsjnQUS/dswhSywSgUdCcyWbO8LgZwUPH0GwazUe9EM0PvgkroPuzlLgX9s7YnI/pPXKEnDQ=="/>
+    </item>
+    <item>
       <title>Omi desktop (fork) 0.1.20</title>
       <pubDate>Mon, 19 Oct 2026 01:48:09 +0000</pubDate>
       <sparkle:version>0.1.20</sparkle:version>
